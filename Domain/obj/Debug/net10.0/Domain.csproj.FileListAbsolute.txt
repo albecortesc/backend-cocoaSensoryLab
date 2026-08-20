@@ -1,0 +1,11 @@
+C:\myData\Dropbox\cocoaSensoryLab\backend-cocoaSensoryLab\Domain\bin\Debug\net10.0\Domain.deps.json
+C:\myData\Dropbox\cocoaSensoryLab\backend-cocoaSensoryLab\Domain\bin\Debug\net10.0\Domain.dll
+C:\myData\Dropbox\cocoaSensoryLab\backend-cocoaSensoryLab\Domain\bin\Debug\net10.0\Domain.pdb
+C:\myData\Dropbox\cocoaSensoryLab\backend-cocoaSensoryLab\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\myData\Dropbox\cocoaSensoryLab\backend-cocoaSensoryLab\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\myData\Dropbox\cocoaSensoryLab\backend-cocoaSensoryLab\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\myData\Dropbox\cocoaSensoryLab\backend-cocoaSensoryLab\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\myData\Dropbox\cocoaSensoryLab\backend-cocoaSensoryLab\Domain\obj\Debug\net10.0\Domain.dll
+C:\myData\Dropbox\cocoaSensoryLab\backend-cocoaSensoryLab\Domain\obj\Debug\net10.0\refint\Domain.dll
+C:\myData\Dropbox\cocoaSensoryLab\backend-cocoaSensoryLab\Domain\obj\Debug\net10.0\Domain.pdb
+C:\myData\Dropbox\cocoaSensoryLab\backend-cocoaSensoryLab\Domain\obj\Debug\net10.0\ref\Domain.dll

@@ -1,0 +1,6 @@
+------------------------------------
+Este proyecto usa arquitectura limpia e incluye un proyecto "Api", con usuarios, jwt, tareas y Swagger.
+La base de datos esta configurada para poder agregar fácilmente más entidades y/o proyectos.
+Ver detalles en el archivo README.md dentro de cada proyecto.
+Todo funciona bien..
+------------------------------------
