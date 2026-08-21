@@ -1,0 +1,11 @@
+{
+  "name": "backend-cocoasensorylab",
+  "version": "1.0.0",
+  "description": "Backend de la plataforma para el análisis sensorial de cacao en la Usco.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
