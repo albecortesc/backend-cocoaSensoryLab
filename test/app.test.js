@@ -29,10 +29,14 @@ function request(server, path) {
           body += chunk;
         });
         res.on("end", () => {
-          resolve({
-            statusCode: res.statusCode,
-            payload: JSON.parse(body),
-          });
+          try {
+            resolve({
+              statusCode: res.statusCode,
+              payload: JSON.parse(body),
+            });
+          } catch (error) {
+            reject(error);
+          }
         });
       }
     );
