@@ -1,0 +1,12 @@
+bin/
+obj/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+.vs/
+
+# Local app settings and generated build artifacts
+**/appsettings.Development.json
